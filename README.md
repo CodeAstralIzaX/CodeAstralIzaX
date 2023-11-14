@@ -2,9 +2,9 @@
       <h3 align="center">N16H7H4WK</h3>
       <h1 align="center">Simplicity is the soul of Efficiency</h1>
       
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prempk07&label=Profile%20views&color=94cdff&style=plastic" alt="prempk07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeAstralIzaX&label=Profile%20views&color=94cdff&style=plastic" alt="CodeAstralIzaX" /> </p>
       
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prempk07" alt="prempk07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeAstralIzaX" alt="CodeAstralIzaX" /></a> </p>
       
 - 🌱 I’m currently learning **Backend Development**
       
