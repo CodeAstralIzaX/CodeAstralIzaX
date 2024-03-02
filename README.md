@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Prem Kumar E</h1>
+      <h3 align="center">N16H7H4WK</h3>
+      <h1 align="center">Simplicity is the soul of Efficiency</h1>
+<h3 align="center">A passionate <b>Frontend Developer</b> from India</h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeastralizax&label=Profile%20views&color=0e75b6&style=flat" alt="codeastralizax" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
