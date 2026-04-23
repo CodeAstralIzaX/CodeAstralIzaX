@@ -1,46 +1,47 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                      🌟 IZAXOTIC NEURAL MATRIX SYSTEM 🌟                    -->
+<!--                    � IZAXOTIC SPACE MATRIX TERMINAL �                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Advanced Coding Terminal Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,20,30&height=300&section=header&text=NEURAL%20MATRIX%20SYSTEM&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=CodeAstral%20IzaX%20•%20Full-Stack%20Developer%20•%20Digital%20Architect&descAlignY=55&descAlign=center&descSize=20"/>
+<!-- Space-themed Header with Purple/Black gradient -->
+<img width="100%" height="350" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,30,31,32&height=350&section=header&text=SPACE%20MATRIX%20TERMINAL&fontSize=70&fontColor=9333EA&animation=fadeIn&fontAlignY=35&desc=Prem%20IzaX%20•%20Full-Stack%20Developer%20•%20Space%20Architect&descAlignY=55&descAlign=center&descSize=18"/>
 
-<!-- Cyberpunk Terminal Interface -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%); border: 2px solid #00FF41; border-radius: 15px; margin: -50px auto 30px auto; padding: 30px; width: 90%; box-shadow: 0 0 50px rgba(0, 255, 65, 0.3);">
+<!-- IzaXotic-inspired Terminal Interface -->
+<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a0a1a 25%, #0a0a0a 50%, #1a0a1a 75%, #0a0a0a 100%); border: 2px solid #9333EA; border-radius: 20px; margin: -80px auto 40px auto; padding: 40px; width: 92%; box-shadow: 0 0 80px rgba(147, 51, 234, 0.4), inset 0 0 50px rgba(147, 51, 234, 0.1);">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                            🚀 QUANTUM TERMINAL v3.1.4 🚀                         ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║  ┌─[root@neural-matrix]─[~/codeastral_workspace]                                 ║
-║  └─➤ ./initialize_developer --mode=advanced --profile=izax                       ║
-║      ▶ Loading neural pathways...                    [████████████████] 100%    ║
-║      ▶ Initializing quantum processors...            [████████████████] 100%    ║
-║      ▶ Establishing neural connections...            [████████████████] 100%    ║
-║                                                                                  ║
-║  ┌─[PREM@IZAX]─[~/digital_realm]                                                 ║
-║  └─➤ cat /proc/developer/manifest.json                                          ║
-║      {                                                                           ║
-║        "name": "Prem Kumar E",                                                   ║
-║        "alias": "CodeAstralIzaX • N16H7H4WK",                                    ║
-║        "class": "Full-Stack Developer & Digital Architect",                     ║
-║        "location": "India 🇮🇳 [Remote-First Protocol]",                         ║
-║        "mission": "Transforming ideas into digital experiences",                 ║
-║        "philosophy": "while(alive) { create(); innovate(); inspire(); }"         ║
-║      }                                                                           ║
-║                                                                                  ║
-║  ┌─[SYSTEM]─[~/skill_matrix]                                                     ║
-║  └─➤ ls -la technologies/ | grep -E "(frontend|backend|3d|devops)"              ║
-║      drwxr-xr-x  frontend/      React • Next.js • TypeScript • Three.js        ║
-║      drwxr-xr-x  backend/       Node.js • Python • Java • Databases            ║
-║      drwxr-xr-x  graphics3d/    WebGL • GLSL • Blender • 3D Engines            ║
-║      drwxr-xr-x  devops/        Git • Linux • Docker • CI/CD Pipelines         ║
-║                                                                                  ║
-║  ➤ System Status: [ONLINE] | Neural Network: [ACTIVE] | Ready for Innovation!   ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║                          🌌 IZAXOTIC SPACE TERMINAL v4.2.0 🌌                      ║
+╠════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                    ║
+║  ┌─[PREM@IZAX-SPACE]─[~/space_matrix]─[QUANTUM_MODE]                               ║
+║  └─➤ ./initialize_space_architect --mode=professional --theme=izaxotic             ║
+║      ▶ Loading space coordinates...               [████████████████] 100%          ║
+║      ▶ Initializing quantum processors...         [████████████████] 100%          ║
+║      ▶ Establishing neural connections...         [████████████████] 100%          ║
+║      ▶ Activating IzaXotic protocol...           [████████████████] 100%          ║
+║                                                                                    ║
+║  ┌─[SPACE_ARCHITECT]─[~/digital_universe]                                          ║
+║  └─➤ cat /sys/developer/identity.json                                             ║
+║      {                                                                             ║
+║        "name": "Prem Kumar E",                                                     ║
+║        "alias": "Space Architect • CodeAstral IzaX",                              ║
+║        "classification": "Full-Stack Developer & Digital Universe Creator",       ║
+║        "coordinates": "India 🇮🇳 [Remote-First Starship]",                        ║
+║        "mission": "Engineering digital experiences across the cosmic web",        ║
+║        "philosophy": "while(exploring) { create(); innovate(); transcend(); }"    ║
+║      }                                                                             ║
+║                                                                                    ║
+║  ┌─[QUANTUM_SYS]─[~/tech_constellation]                                           ║
+║  └─➤ ls -la ./space_technologies/ | grep -v ".hidden"                            ║
+║      drwxr-xr-x  frontend/      React • Next.js • TypeScript • Three.js          ║
+║      drwxr-xr-x  backend/       Node.js • Python • Java • Cosmic APIs            ║
+║      drwxr-xr-x  space3d/       WebGL • GLSL • Blender • Universe Engines        ║
+║      drwxr-xr-x  devops/        Git • Linux • Docker • Starship CI/CD            ║
+║                                                                                    ║
+║  ➤ IZAXOTIC STATUS: [ONLINE] | SPACE MATRIX: [ACTIVE] | READY FOR INNOVATION!     ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -63,7 +64,7 @@
 <!-- Advanced Terminal Separator -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **IX://DEVELOPER_PROFILE — SYSTEM_LOADED** <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35">
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **IX://SPACE_ARCHITECT_PROFILE — SYSTEM_LOADED** <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35">
 
 <!-- Animated Developer GIF -->
 <div align="center">
@@ -74,43 +75,43 @@
 <tr>
 <td width="55%" valign="top">
 
-### **CMD://IDENTITY_MATRIX**
-<!-- Coding Animation -->
+### **CMD://SPACE_IDENTITY_MATRIX**
+<!-- Space Coding Animation -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750e67-7b73-4a43-aa49-1608e3b4c5cb.gif" width="200" style="margin-left: 20px;"/>
 
 ```bash
 ╭─────────────────────────────────────────────╮
-│               IX://USER_DATA                │
+│            IX://SPACE_USER_DATA             │
 ├─────────────────────────────────────────────┤
 │                                             │
 │  ▶ FULL_NAME: Prem Kumar E                  │
-│  ▶ ALIAS_001: N16H7H4WK                    │
-│  ▶ CLASS_DEF: Full-Stack Developer          │
-│  ▶ LOCATION_: India 🇮🇳 [REMOTE_FIRST]     │
-│  ▶ PHILOSOPHY: "Simplicity is Efficiency"   │
-│  ▶ STATUS___: [BUILDING_THE_FUTURE]         │
+│  ▶ ALIAS_001: Space Architect IzaX         │
+│  ▶ CLASS_DEF: Full-Stack Space Developer    │
+│  ▶ LOCATION_: India 🇮🇳 [COSMIC_REMOTE]    │
+│  ▶ PHILOSOPHY: "Code Among the Stars"       │
+│  ▶ STATUS___: [BUILDING_THE_UNIVERSE]       │
 │                                             │
 ├─────────────────────────────────────────────┤
-│            PROC://TECH_STACK                │
+│           PROC://SPACE_TECH_STACK           │
 ├─────────────────────────────────────────────┤
 │                                             │
-│  🌐 Frontend: React • Next.js • TypeScript │
-│  🎨 3D/WebGL: Three.js • GLSL • Blender    │
-│  ⚙️ Backend_: Node.js • Python • Java      │
-│  💾 Database: MySQL • MongoDB • Redis      │
-│  🛠️ DevOps__: Git • Linux • Docker         │
+│  � Frontend: React • Next.js • TypeScript │
+│  🚀 3D/WebGL: Three.js • GLSL • Blender    │
+│  ⭐ Backend_: Node.js • Python • Java      │
+│  �️ Database: MySQL • MongoDB • Cosmos     │
+│  🌟 DevOps__: Git • Linux • Docker         │
 │                                             │
 ╰─────────────────────────────────────────────╯
 
 ╭─────────────────────────────────────────────╮
-│           SYS://LEARNING_PIPELINE           │
+│         SYS://SPACE_EXPLORATION             │
 ├─────────────────────────────────────────────┤
 │                                             │
-│  Backend Architecture    ████████░░ 80%     │
-│  Three.js Mastery       ██████░░░░ 60%     │
-│  AI/ML Integration      █████░░░░░ 50%     │
-│  Web3 Development       ███░░░░░░░ 30%     │
-│  Cloud Architecture     ████░░░░░░ 40%     │
+│  Space Architecture     ████████░░ 80%      │
+│  Three.js Galaxies     ██████░░░░ 60%      │
+│  AI/ML Integration     █████░░░░░ 50%      │
+│  Cosmic Development    ███░░░░░░░ 30%      │
+│  Universe Architecture ████░░░░░░ 40%      │
 │                                             │
 ╰─────────────────────────────────────────────╯
 ```
@@ -120,12 +121,12 @@
 
 <div align="center">
 
-### **SYS://NETWORK_STATS**
+### **SYS://SPACE_NETWORK_STATS**
 
-<!-- Floating Developer GIF -->
+<!-- Floating Space Developer GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="80" style="float: right;"/>
 
-<img src="https://komarev.com/ghpvc/?username=codeastralizax&label=TERMINAL%20VISITORS&color=00FF41&style=for-the-badge&labelColor=0A0A0A"/>
+<img src="https://komarev.com/ghpvc/?username=codeastralizax&label=COSMIC%20VISITORS&color=9333EA&style=for-the-badge&labelColor=0A0A0A"/>
 
 ### **PROC://REAL_TIME_METRICS**
 ```bash
@@ -166,7 +167,7 @@ Pull Requests: 90% ██████████████████░
 <!-- Advanced Terminal Separator -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> **PROC://TECH_ARSENAL — DEPLOYED_SYSTEMS** <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974dc.gif" width="35">
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> **PROC://SPACE_TECH_ARSENAL — DEPLOYED_SYSTEMS** <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974dc.gif" width="35">
 
 <!-- Animated Tech GIF -->
 <div align="center">
@@ -175,7 +176,7 @@ Pull Requests: 90% ██████████████████░
 
 <div align="center">
 
-### **IX://TECHNOLOGY_MATRIX — 100% CUSTOM_CODE**
+### **IX://SPACE_TECHNOLOGY_MATRIX — 100% CUSTOM_CODE**
 
 <!-- Tech Animation -->
 <div align="center">
@@ -265,7 +266,7 @@ Docker     ████░░░░░░░░ 40%
 <!-- Advanced Terminal Separator -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> **PROJ://PORTFOLIO_SHOWCASE — FEATURED_BUILDS** <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35">
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> **PROJ://SPACE_PORTFOLIO_SHOWCASE — FEATURED_BUILDS** <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35">
 
 <!-- Animated Portfolio GIF -->
 <div align="center">
@@ -274,7 +275,7 @@ Docker     ████░░░░░░░░ 40%
 
 <div align="center">
 
-### **SYS://PROJECT_DATABASE — 6+ BUILDS_SHIPPED**
+### **SYS://SPACE_PROJECT_DATABASE — 6+ BUILDS_SHIPPED**
 
 <!-- Project Development GIF -->
 <div align="center">
@@ -578,7 +579,7 @@ Docker     ████░░░░░░░░ 40%
 <!-- Advanced Terminal Separator -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> **CMD://CONTACT_PROTOCOL — NEURAL_LINK_OPEN** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35">
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> **CMD://SPACE_CONTACT_PROTOCOL — COSMIC_LINK_OPEN** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35">
 
 <!-- Animated Contact GIF -->
 <div align="center">
@@ -716,21 +717,21 @@ Docker     ████░░░░░░░░ 40%
 
 ---
 
-### **🔧 NEURAL SIGNATURE — CRAFTED_BY_PREM_IZAX 🔧**
+### **🌌 IZAXOTIC SPACE SIGNATURE — CRAFTED_BY_PREM_IZAX 🌌**
 ```bash
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║                              ⚡ BUILD INFORMATION ⚡                              ║
+║                           ⭐ SPACE BUILD INFORMATION ⭐                           ║
 ╠══════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                  ║
-║  🎨 Architect: Prem IzaX                    🚀 Build: Neural Matrix v3.1.4      ║
-║  💎 Studio: CodeAstral Digital Labs         📅 Date: 2026.04.23                 ║
-║  🔗 Repository: /codeastralizax             🔒 Commit: quantum_f4a2b8c           ║
+║  � Space Architect: Prem IzaX             🚀 Build: IzaXotic Space v4.2.0      ║
+║  💎 Cosmic Studio: IzaXotic Digital Labs   📅 Date: 2026.04.23                  ║
+║  🔗 Repository: /codeastralizax            🔒 Commit: space_f4a2b8c              ║
 ║                                                                                  ║
-║  💬 "Transforming visions into digital reality, one neural pathway at a time"   ║
-║  🌟 — Every line of code crafted with quantum precision and infinite passion    ║
+║  💬 "Engineering digital universes, one cosmic line of code at a time"          ║
+║  🌟 — Every function crafted with stellar precision and infinite passion        ║
 ║                                                                                  ║
-║  🛠️ Built with: 💚 Quantum Love | ⚡ Neural Engineering | 🚀 Digital Innovation  ║
-║  🎯 Powered by: Three.js Magic | IzaXotic Aesthetics | Futuristic Vision       ║
+║  🛠️ Built with: � Cosmic Love | ⭐ Space Engineering | 🚀 Digital Innovation   ║
+║  🎯 Powered by: Three.js Magic | IzaXotic Space Aesthetics | Universe Vision    ║
 ║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
