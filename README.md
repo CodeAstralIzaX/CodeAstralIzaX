@@ -1,759 +1,154 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    � IZAXOTIC SPACE MATRIX TERMINAL �                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--
+  Premium GitHub Profile README
+  Style: Neon Editorial / Futuristic Grid / Modern
+-->
 
 <div align="center">
-
-<!-- Space-themed Header with Purple/Black gradient -->
-<img width="100%" height="350" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,30,31,32&height=350&section=header&text=SPACE%20MATRIX%20TERMINAL&fontSize=70&fontColor=9333EA&animation=fadeIn&fontAlignY=35&desc=Prem%20IzaX%20•%20Full-Stack%20Developer%20•%20Space%20Architect&descAlignY=55&descAlign=center&descSize=18"/>
-
-<!-- IzaXotic-inspired Terminal Interface -->
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a0a1a 25%, #0a0a0a 50%, #1a0a1a 75%, #0a0a0a 100%); border: 2px solid #9333EA; border-radius: 20px; margin: -80px auto 40px auto; padding: 40px; width: 92%; box-shadow: 0 0 80px rgba(147, 51, 234, 0.4), inset 0 0 50px rgba(147, 51, 234, 0.1);">
-
-```ascii
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                          🌌 IZAXOTIC SPACE TERMINAL v4.2.0 🌌                      ║
-╠════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                    ║
-║  ┌─[PREM@IZAX-SPACE]─[~/space_matrix]─[QUANTUM_MODE]                               ║
-║  └─➤ ./initialize_space_architect --mode=professional --theme=izaxotic             ║
-║      ▶ Loading space coordinates...               [████████████████] 100%          ║
-║      ▶ Initializing quantum processors...         [████████████████] 100%          ║
-║      ▶ Establishing neural connections...         [████████████████] 100%          ║
-║      ▶ Activating IzaXotic protocol...           [████████████████] 100%          ║
-║                                                                                    ║
-║  ┌─[SPACE_ARCHITECT]─[~/digital_universe]                                          ║
-║  └─➤ cat /sys/developer/identity.json                                             ║
-║      {                                                                             ║
-║        "name": "Prem Kumar E",                                                     ║
-║        "alias": "Space Architect • CodeAstral IzaX",                              ║
-║        "classification": "Full-Stack Developer & Digital Universe Creator",       ║
-║        "coordinates": "India 🇮🇳 [Remote-First Starship]",                        ║
-║        "mission": "Engineering digital experiences across the cosmic web",        ║
-║        "philosophy": "while(exploring) { create(); innovate(); transcend(); }"    ║
-║      }                                                                             ║
-║                                                                                    ║
-║  ┌─[QUANTUM_SYS]─[~/tech_constellation]                                           ║
-║  └─➤ ls -la ./space_technologies/ | grep -v ".hidden"                            ║
-║      drwxr-xr-x  frontend/      React • Next.js • TypeScript • Three.js          ║
-║      drwxr-xr-x  backend/       Node.js • Python • Java • Cosmic APIs            ║
-║      drwxr-xr-x  space3d/       WebGL • GLSL • Blender • Universe Engines        ║
-║      drwxr-xr-x  devops/        Git • Linux • Docker • Starship CI/CD            ║
-║                                                                                    ║
-║  ➤ IZAXOTIC STATUS: [ONLINE] | SPACE MATRIX: [ACTIVE] | READY FOR INNOVATION!     ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <div style="max-width:1120px; margin:0 auto; padding:32px 28px; border-radius:28px; background:linear-gradient(135deg, #060816 0%, #0f172a 45%, #111827 100%); border:1px solid rgba(255,255,255,0.10); box-shadow:0 25px 80px rgba(0,0,0,0.35); position:relative; overflow:hidden;">
+    <div style="position:absolute; inset:0; background:radial-gradient(circle at top left, rgba(34,211,238,0.18), transparent 28%), radial-gradient(circle at bottom right, rgba(168,85,247,0.18), transparent 30%); pointer-events:none;"></div>
+    <div style="position:relative; z-index:1;">
+      <h1 style="margin:0 0 10px; font-size:40px; color:#ffffff; letter-spacing:0.5px;">Prem Kumar E</h1>
+      <p style="margin:0 0 8px; font-size:18px; color:#bfdbfe;">Full-stack builder • interface designer • digital experimenter</p>
+      <p style="margin:0 0 16px; font-size:15px; color:#94a3b8;">I create products that feel sharp, fast, and quietly futuristic.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Status-Open%20for%20Work-00FF41?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/Focus-Product%20Engineering-00BFFF?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/Style-Neon%20Editorial-9333EA?style=for-the-badge&labelColor=000000" />
+      </div>
+    </div>
+  </div>
 </div>
 
-<!-- Advanced Command Line Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=800&color=00FF41&background=0A0A0A00&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=160&lines=root%40neural-matrix:~%24+sudo+./activate_developer_mode.sh;%E2%9E%A4+Quantum+processors+initialized...+%E2%9C%85+READY;root%40neural-matrix:~%24+npm+run+build+--production;%E2%9E%A4+Building+the+future,+one+line+at+a+time...+%F0%9F%9A%80;root%40neural-matrix:~%24+git+push+origin+innovation;%E2%9E%A4+Deploying+digital+dreams+to+reality...+%E2%9C%A8;root%40neural-matrix:~%24+echo+%22Welcome+to+my+digital+universe!%22;%E2%9E%A4+Connection+established.+Let's+create+magic!+%F0%9F%8C%9F" alt="Neural Command Line"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeastralizax&label=VISITORS&color=9333EA&style=for-the-badge&labelColor=0A0A0A" />
+</p>
 
-<!-- Status Grid -->
-<table width="100%" style="margin-top: 20px;">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/⚡%20NEURAL-ONLINE-00FF41?style=for-the-badge&labelColor=000000&logo=electron&logoColor=00FF41"/></td>
-<td align="center"><img src="https://img.shields.io/badge/🧠%20QUANTUM-PROCESSING-00BFFF?style=for-the-badge&labelColor=000000&logo=quantconnect&logoColor=00BFFF"/></td>
-<td align="center"><img src="https://img.shields.io/badge/�%20DEPLOYMENT-LIVE-FF6B35?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=FF6B35"/></td>
-<td align="center"><img src="https://img.shields.io/badge/�%20STATUS-PREMIUM-9333EA?style=for-the-badge&labelColor=000000&logo=diamond&logoColor=9333EA"/></td>
-</tr>
-</table>
-
-</div>
-
-<!-- Advanced Terminal Separator -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **IX://SPACE_ARCHITECT_PROFILE — SYSTEM_LOADED** <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35">
-
-<!-- Animated Developer GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
-</div>
+<hr />
 
 <table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### **CMD://SPACE_IDENTITY_MATRIX**
-<!-- Space Coding Animation -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750e67-7b73-4a43-aa49-1608e3b4c5cb.gif" width="200" style="margin-left: 20px;"/>
-
-```bash
-╭─────────────────────────────────────────────╮
-│            IX://SPACE_USER_DATA             │
-├─────────────────────────────────────────────┤
-│                                             │
-│  ▶ FULL_NAME: Prem Kumar E                  │
-│  ▶ ALIAS_001: Space Architect IzaX         │
-│  ▶ CLASS_DEF: Full-Stack Space Developer    │
-│  ▶ LOCATION_: India 🇮🇳 [COSMIC_REMOTE]    │
-│  ▶ PHILOSOPHY: "Code Among the Stars"       │
-│  ▶ STATUS___: [BUILDING_THE_UNIVERSE]       │
-│                                             │
-├─────────────────────────────────────────────┤
-│           PROC://SPACE_TECH_STACK           │
-├─────────────────────────────────────────────┤
-│                                             │
-│  � Frontend: React • Next.js • TypeScript │
-│  🚀 3D/WebGL: Three.js • GLSL • Blender    │
-│  ⭐ Backend_: Node.js • Python • Java      │
-│  �️ Database: MySQL • MongoDB • Cosmos     │
-│  🌟 DevOps__: Git • Linux • Docker         │
-│                                             │
-╰─────────────────────────────────────────────╯
-
-╭─────────────────────────────────────────────╮
-│         SYS://SPACE_EXPLORATION             │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Space Architecture     ████████░░ 80%      │
-│  Three.js Galaxies     ██████░░░░ 60%      │
-│  AI/ML Integration     █████░░░░░ 50%      │
-│  Cosmic Development    ███░░░░░░░ 30%      │
-│  Universe Architecture ████░░░░░░ 40%      │
-│                                             │
-╰─────────────────────────────────────────────╯
-```
-
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-
-### **SYS://SPACE_NETWORK_STATS**
-
-<!-- Floating Space Developer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="80" style="float: right;"/>
-
-<img src="https://komarev.com/ghpvc/?username=codeastralizax&label=COSMIC%20VISITORS&color=9333EA&style=for-the-badge&labelColor=0A0A0A"/>
-
-### **PROC://REAL_TIME_METRICS**
-```bash
-╭─────────────────────────────╮
-│       LIVE_DASHBOARD        │
-├─────────────────────────────┤
-│ Followers    │   6  │ 📊    │
-│ Following    │   8  │ 🔗    │
-│ Repositories │  17  │ 📁    │
-│ Commits/Year │ 146  │ 💻    │
-│ Organizations│   2  │ 🏢    │
-│ Total Stars  │  ?   │ ⭐    │
-╰─────────────────────────────╯
-```
-
-### **IX://ACHIEVEMENTS_UNLOCKED**
-- � **Quickdraw** — Lightning PR Creation
-- 🦈 **Pull Shark x2** — Merge Master Status
-- 🎯 **YOLO** — No-Review Merge Champion
-
-### **CMD://ORGANIZATIONS**
-<img src="https://img.shields.io/badge/@TurfGo-MEMBER-00FF41?style=flat-square&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/@IzaXotic-CORE_DEV-00BFFF?style=flat-square&logo=github&logoColor=black"/>
-
-### **SYS://ACTIVITY_BREAKDOWN**
-```bash
-Code Reviews: 1%  ░████████████████░
-Issues Filed: 9%  ██░███████████████
-Pull Requests: 90% ██████████████████░
-```
-
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding:18px; border-radius:20px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 8px; color:#ffffff;">Designing experiences</h3>
+        <p style="margin:0; color:#cbd5e1;">I enjoy building interfaces that feel effortless, refined, and deeply usable.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding:18px; border-radius:20px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 8px; color:#ffffff;">Building systems</h3>
+        <p style="margin:0; color:#cbd5e1;">From frontend flows to backend foundations, I care about strong structure and clean delivery.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding:18px; border-radius:20px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 8px; color:#ffffff;">Exploring ideas</h3>
+        <p style="margin:0; color:#cbd5e1;">I’m drawn to immersive visuals, AI experiments, and interactive digital concepts.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding:18px; border-radius:20px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 8px; color:#ffffff;">Shipping with intent</h3>
+        <p style="margin:0; color:#cbd5e1;">Every build aims to be thoughtful, scalable, and genuinely enjoyable to use.</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
-<!-- Advanced Terminal Separator -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<hr />
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> **PROC://SPACE_TECH_ARSENAL — DEPLOYED_SYSTEMS** <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974dc.gif" width="35">
+## ✨ About Me
 
-<!-- Animated Tech GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/>
-</div>
+I’m Prem Kumar E, also known as <b>Space Architect IzaX</b>. I love turning ideas into meaningful digital experiences that feel polished, purposeful, and modern. My approach blends product thinking with technical execution so the result is both beautiful and reliable.
 
-<div align="center">
+### I’m especially interested in
+- Crafting modern interfaces with strong UX clarity
+- Building responsive, high-quality web applications
+- Creating immersive 3D and interactive experiences
+- Exploring AI, creative coding, and forward-looking product ideas
+- Designing products that feel simple, premium, and alive
 
-### **IX://SPACE_TECHNOLOGY_MATRIX — 100% CUSTOM_CODE**
+<hr />
 
-<!-- Tech Animation -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-7d725f94-6674-4ac5-b11c-ca0e54ad849f.gif" width="300"/>
-</div>
+## 🧠 Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<hr />
+
+## 🚀 Featured Work
 
 <table width="100%">
-<tr>
-<td width="25%" align="center">
-
-**🌐 WEB_CORE**
-```bash
-HTML5      ████████████ 95%
-CSS3       ████████████ 95%
-JavaScript ███████████░ 90%
-TypeScript ████████░░░░ 75%
-React      ███████░░░░░ 70%
-Next.js    ██████░░░░░░ 60%
-```
-<img src="https://img.shields.io/badge/WEB-CORE-00FF41?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="25%" align="center">
-
-**🎨 3D_GRAPHICS**
-```bash
-Three.js   ██████░░░░░░ 60%
-WebGL      █████░░░░░░░ 50%
-GLSL       ████░░░░░░░░ 40%
-Blender    ███████░░░░░ 70%
-Canvas API ████████░░░░ 80%
-```
-<img src="https://img.shields.io/badge/3D-GRAPHICS-00BFFF?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="25%" align="center">
-
-**⚙️ BACKEND_SYS**
-```bash
-Node.js    ██████░░░░░░ 60%
-Python     ████████░░░░ 80%
-Java       █████████░░░ 85%
-MySQL      ████████░░░░ 80%
-MongoDB    █████░░░░░░░ 50%
-```
-<img src="https://img.shields.io/badge/BACKEND-SYS-FF6B35?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="25%" align="center">
-
-**🛠️ DEV_TOOLS**
-```bash
-Git/GitHub ██████████░░ 95%
-VS Code    ██████████░░ 95%
-Linux      ████████░░░░ 80%
-Figma      ███████░░░░░ 70%
-Docker     ████░░░░░░░░ 40%
-```
-<img src="https://img.shields.io/badge/DEV-TOOLS-9333EA?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding:16px; border-radius:18px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 6px; color:#ffffff;">100DAYS_WEBDEV</h3>
+        <p style="margin:0; color:#cbd5e1;">A daily challenge centered on discipline, frontend growth, and refined execution.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding:16px; border-radius:18px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 6px; color:#ffffff;">AVL_TREE_VISUAL</h3>
+        <p style="margin:0; color:#cbd5e1;">An interactive learning tool that makes abstract structures feel clear and visual.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding:16px; border-radius:18px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 6px; color:#ffffff;">EMOTION_AI_ENGINE</h3>
+        <p style="margin:0; color:#cbd5e1;">An AI-driven exploration focused on analysis, perception, and expressive interaction.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding:16px; border-radius:18px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); margin-bottom:12px;">
+        <h3 style="margin:0 0 6px; color:#ffffff;">LIVE_CODE_NEXUS</h3>
+        <p style="margin:0; color:#cbd5e1;">A live coding experience designed to feel futuristic, fast, and interactive.</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
-### **CMD://SKILL_SHOWCASE — INTERACTIVE_ICONS**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,nodejs,python,java,cpp,c,mysql,mongodb,git,github,vscode,figma,blender,linux&theme=dark&perline=10"/>
+<hr />
 
-### **SYS://ADVANCED_TECHNOLOGIES — CUTTING_EDGE**
-<table width="100%">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=00FF41"/></td>
-<td align="center"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=00BFFF"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/></td>
-</tr>
-</table>
+## 📊 GitHub Snapshot
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeastralizax&show_icons=true&theme=tokyonight&bg_color=0A0A0A&title_color=00F5FF&text_color=FFFFFF&icon_color=00BFFF&hide_border=false" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=codeastralizax&theme=tokyonight&background=0A0A0A&border=00F5FF&ring=00BFFF&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=00BFFF&dates=FFFFFF&sideNums=FFFFFF&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<!-- Advanced Terminal Separator -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeastralizax&layout=donut&theme=tokyonight&bg_color=0A0A0A&title_color=00F5FF&text_color=FFFFFF&hide_border=false" alt="Top Languages" />
+</p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> **PROJ://SPACE_PORTFOLIO_SHOWCASE — FEATURED_BUILDS** <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35">
+<hr />
 
-<!-- Animated Portfolio GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
-</div>
+## 🤝 Connect
 
-<div align="center">
+If you’re looking for collaboration, thoughtful product work, or a fresh perspective on digital experiences, I’d love to connect.
 
-### **SYS://SPACE_PROJECT_DATABASE — 6+ BUILDS_SHIPPED**
-
-<!-- Project Development GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│         PROJ://001              │
-│    🚀 100DAYS_WEBDEV           │
-├─────────────────────────────────┤
-│  Status: [ACTIVE]               │
-│  Type: Challenge Evolution      │
-│  Stack: JS • HTML • CSS         │
-│  ETA: ████████░░ 80%           │
-│                                 │
-│  ▶ 100-day mastery challenge    │
-│  ▶ Frontend skill evolution     │
-│  ▶ Daily commit streak          │
-│  ▶ Modern web standards         │
-╰─────────────────────────────────╯
-```
-<img src="https://img.shields.io/badge/BUILD-SUCCESS-00FF41?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="33%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│         PROJ://002              │
-│    🌳 AVL_TREE_VISUAL          │
-├─────────────────────────────────┤
-│  Status: [DEPLOYED]             │
-│  Type: Data Visualization       │
-│  Stack: JavaScript • Algorithm  │
-│  ETA: ██████████ 100%          │
-│                                 │
-│  ▶ Interactive tree structures  │
-│  ▶ Algorithm visualization      │
-│  ▶ Educational tool             │
-│  ▶ Real-time animations         │
-╰─────────────────────────────────╯
-```
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="33%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│         PROJ://003              │
-│    🎭 EMOTION_AI_ENGINE        │
-├─────────────────────────────────┤
-│  Status: [QUANTUM_BETA]         │
-│  Type: Neural Network           │
-│  Stack: Python • ML • Jupyter   │
-│  ETA: ███████░░░ 70%           │
-│                                 │
-│  ▶ Real-time emotion detection  │
-│  ▶ AI/ML powered analysis       │
-│  ▶ Computer vision integration  │
-│  ▶ Live camera processing       │
-╰─────────────────────────────────╯
-```
-<img src="https://img.shields.io/badge/AI-LEARNING-FF6B35?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│         PROJ://004              │
-│    ⚡ LIVE_CODE_NEXUS          │
-├─────────────────────────────────┤
-│  Status: [EVOLVED]              │
-│  Type: Real-time Editor         │
-│  Stack: JS • HTML • CSS • API   │
-│  ETA: ████████░░ 85%           │
-│                                 │
-│  ▶ Live code compilation        │
-│  ▶ Multi-language support       │
-│  ▶ Futuristic dark theme        │
-│  ▶ Collaborative editing        │
-╰─────────────────────────────────╯
-```
-<img src="https://img.shields.io/badge/NEXUS-ACTIVE-9333EA?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="33%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│         PROJ://005              │
-│    🌌 3D_PORTFOLIO_WORLD       │
-├─────────────────────────────────┤
-│  Status: [RENDERING]            │
-│  Type: WebGL Experience         │
-│  Stack: Three.js • GLSL • WebGL │
-│  ETA: ██████░░░░ 60%           │
-│                                 │
-│  ▶ Immersive 3D portfolio       │
-│  ▶ Interactive environments     │
-│  ▶ Custom shader effects        │
-│  ▶ VR-ready architecture        │
-╰─────────────────────────────────╯
-```
-<img src="https://img.shields.io/badge/3D-LOADING-EC4899?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-<td width="33%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│         PROJ://006              │
-│    🎮 QUANTUM_GAME_ENGINE      │
-├─────────────────────────────────┤
-│  Status: [DEVELOPING]           │
-│  Type: Browser Game Platform    │
-│  Stack: Three.js • WebGL • JS   │
-│  ETA: █████░░░░░ 50%           │
-│                                 │
-│  ▶ Physics-based gameplay       │
-│  ▶ Multi-player architecture    │
-│  ▶ Custom engine development    │
-│  ▶ Cross-platform compatibility │
-╰─────────────────────────────────╯
-```
-<img src="https://img.shields.io/badge/GAME-BETA-10B981?style=for-the-badge&labelColor=0A0A0A"/>
-
-</td>
-</tr>
-</table>
-
-### **IX://PROJECT_METRICS**
-```bash
-╭────────────────────────────────────────────────────────────────╮
-│                      BUILD_STATISTICS                          │
-├────────────────────────────────────────────────────────────────┤
-│  Total Projects: 6+    │ Code Quality: A+     │ Stars: ⭐ Growing │
-│  Shipped Builds: 4     │ Performance: 90+     │ Forks: 🍴 Active  │
-│  In Development: 2     │ SEO Score: 95+       │ Issues: 🐛 Minimal │
-╰────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-<!-- Advanced Terminal Separator -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"> **SYS://ANALYTICS_DASHBOARD — PERFORMANCE_METRICS** <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35">
-
-<!-- Animated Analytics GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
-</div>
-
-<div align="center">
-
-### **IX://REAL_TIME_STATISTICS — <24h RESPONSE_TIME**
-
-<!-- Stats Animation -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="200"/>
-</div>
-
-<table width="100%">
-<tr>
-<td width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codeastralizax&show_icons=true&theme=chartreuse-dark&bg_color=0A0A0A,1a1a1a,2a2a2a&border_color=00FF41&title_color=00FF41&icon_color=00BFFF&text_color=FFFFFF&hide_border=false&custom_title=IX://DEVELOPER_ANALYTICS"/>
-
-</td>
-<td width="4%"></td>
-<td width="48%">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=codeastralizax&theme=chartreuse-dark&background=0A0A0A&border=00FF41&ring=00BFFF&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=00BFFF&dates=FFFFFF&sideNums=FFFFFF&hide_border=false"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeastralizax&layout=donut&theme=chartreuse-dark&bg_color=0A0A0A,1a1a1a&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&hide_border=false&custom_title=CMD://LANGUAGE_DISTRIBUTION"/>
-
-<br>
-
-<!-- IzaXotic Style Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeastralizax&bg_color=0A0A0A&color=00FF41&line=00BFFF&point=FFFFFF&area=true&hide_border=false&custom_title=PROC://COMMIT_MATRIX_VISUALIZATION"/>
-
-### **PROC://PERFORMANCE_DASHBOARD**
-```bash
-╭──────────────────────────────────────────────────────────╮
-│                   IX://METRICS_OVERVIEW                  │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  📊 Commits (2026)     │ 146    │ 🔥 Current Streak │ ## │
-│  📁 Public Repos       │  17    │ ⚡ Best Streak   │ ## │
-│  👥 Followers          │   6    │ ⭐ Total Stars   │ ## │
-│  🔗 Following          │   8    │ 🍴 Total Forks   │ ## │
-│  🏢 Organizations      │   2    │ 🐛 Open Issues   │  0 │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│               PROC://CONTRIBUTION_BREAKDOWN              │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  Code Reviews    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1%   │
-│  Issues Filed    █████████░░░░░░░░░░░░░░░░░░░░░░░░░ 9%   │
-│  Pull Requests   ██████████████████████████████████ 90%  │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-<!-- Advanced Terminal Separator -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **IX://ACHIEVEMENTS_MATRIX — MILESTONE_TRACKER** <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-bae1-faaace340ee9.gif" width="35">
-
-<!-- Animated Achievement GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-fd36397181a5.gif" width="400"/>
-</div>
-
-<div align="center">
-
-### **SYS://TROPHY_SHOWCASE — GITHUB_MASTERY**
-
-<!-- Achievement Animation -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-fd36397181a5.gif" width="250"/>
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codeastralizax&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Gists,Experience,Reviews,Organizations,Discussions"/>
-
-### **CMD://ACHIEVEMENT_LOG — UNLOCKED_BADGES**
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│        🏆 EARNED_BADGES         │
-├─────────────────────────────────┤
-│                                 │
-│  🚀 QUICKDRAW                   │
-│  └─ Lightning PR Creation       │
-│                                 │
-│  🦈 PULL SHARK x2               │
-│  └─ Merged PR Mastery          │
-│                                 │
-│  🎯 YOLO                        │
-│  └─ No-Review Merge Champion    │
-│                                 │
-│  ⭐ STARSTRUCK                  │
-│  └─ Repository Star Collection  │
-│                                 │
-╰─────────────────────────────────╯
-```
-
-</td>
-<td width="50%" align="center">
-
-```bash
-╭─────────────────────────────────╮
-│      🌐 ORG_MEMBERSHIPS         │
-├─────────────────────────────────┤
-│                                 │
-│  @TurfGo                        │
-│  ├─ Role: MEMBER                │
-│  ├─ Status: [ACTIVE]            │
-│  └─ Projects: Multiple          │
-│                                 │
-│  @IzaXotic                      │
-│  ├─ Role: CORE_DEVELOPER        │
-│  ├─ Status: [LEAD_DEV]          │
-│  └─ Projects: Custom Builds     │
-│                                 │
-╰─────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
-### **PROC://ANNUAL_STATS — 2026_PERFORMANCE**
-<img src="https://img.shields.io/badge/146%20COMMITS-2026-00FF41?style=for-the-badge&labelColor=0A0A0A&logo=git"/>
-<img src="https://img.shields.io/badge/17%20REPOSITORIES-ACTIVE-00BFFF?style=for-the-badge&labelColor=0A0A0A&logo=github"/>
-<img src="https://img.shields.io/badge/90%25%20PR_RATIO-EXCELLENT-FF6B35?style=for-the-badge&labelColor=0A0A0A&logo=codecov"/>
-<img src="https://img.shields.io/badge/6%20FOLLOWERS-GROWING-9333EA?style=for-the-badge&labelColor=0A0A0A&logo=rss"/>
-
-</div>
-
-<!-- Advanced Terminal Separator -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> **CMD://SPACE_CONTACT_PROTOCOL — COSMIC_LINK_OPEN** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35">
-
-<!-- Animated Contact GIF -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400"/>
-</div>
-
-<div align="center">
-
-### **IX://COMMUNICATION_CHANNELS — <24h_RESPONSE**
-
-<!-- Communication Animation -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750e030-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="250"/>
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### **DIRECT_NEURAL_LINK**
-```bash
-╭─────────────────────────────╮
-│     PRIMARY_ENDPOINT        │
-├─────────────────────────────┤
-│                             │
-│  📧 quantum_email.connect() │
-│  └─ premizax.07@gmail.com   │
-│                             │
-│  🔐 Encryption: AES-256     │
-│  ⚡ Response: <24h          │
-│  🌐 Availability: 24/7      │
-│  📍 Timezone: IST (UTC+5:30)│
-│                             │
-╰─────────────────────────────╯
-```
-
-<a href="mailto:premizax.07@gmail.com">
-<img src="https://img.shields.io/badge/QUANTUM_EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0A0A0A"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### **REPOSITORY_MATRIX**
-```bash
-╭─────────────────────────────╮
-│     GITHUB_INTERFACE        │
-├─────────────────────────────┤
-│                             │
-│  🔗 matrix.github_connect() │
-│  └─ /codeastralizax         │
-│                             │
-│  📊 Repos: 17 [ACTIVE]      │
-│  🌟 Stars: Growing          │
-│  🍴 Forks: Available        │
-│  📋 Issues: Open for PRs    │
-│                             │
-╰─────────────────────────────╯
-```
-
-<a href="https://github.com/codeastralizax">
-<img src="https://img.shields.io/badge/MATRIX_GITHUB-00BFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0A0A"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-### **SYS://COLLABORATION_STATUS**
-```bash
-╭──────────────────────────────────────────────────────────────────╮
-│                        IX://AVAILABILITY                         │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  🟢 Open for collaborations    │  🟢 Available for freelance     │
-│  🟢 Accepting PR reviews       │  🟢 Open source contributions   │
-│  🟢 Technical consultations    │  🟢 Mentorship & code reviews   │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
-
-### **PROC://APPRECIATION_MODULE**
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=💚+Thanks+for+exploring+my+digital+realm!;🌟+Your+visit+has+been+logged+in+the+matrix;⚡+Neural+connection+established+successfully!;🚀+Let's+build+the+future+together!" alt="Appreciation"/>
-
-<!-- IzaXotic Style Snake Animation -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<!-- Advanced Coding Terminal Footer -->
-<img width="100%" height="500" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,9,8,7,6,5,4,3,2,1,0&height=500&section=footer&text=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=1&fontColor=00FF41&animation=fadeIn&fontAlignY=50"/>
-
-<div align="center" style="margin-top: -400px; position: relative; z-index: 10;">
-
-<!-- Terminal Shutdown Sequence -->
-<table width="100%">
-<tr>
-<td align="center">
-
-```bash
-╔════════════════════════════════════════════════════════════════════════════════╗
-║                        🔌 TERMINAL SHUTDOWN SEQUENCE 🔌                        ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║  ┌──(root㉿codeastral)-[~/quantum_dev]                                          ║
-║  └─$ git log --oneline -5                                                     ║
-║      f4a2b8c feat: Enhanced GitHub profile with quantum aesthetics             ║
-║      e1c9d7a fix: Optimized terminal responsiveness                            ║
-║      b3f5a2c docs: Updated README with latest project status                   ║
-║      9e7c4f1 style: Implemented futuristic UI components                       ║
-║      d2a8b5e perf: Boosted application performance by 40%                      ║
-║                                                                                ║
-║  ┌──(root㉿codeastral)-[~/quantum_dev]                                          ║
-║  └─$ docker ps --format "table {{.Names}}\t{{.Status}}"                      ║
-║      NAMES                     STATUS                                          ║
-║      codeastral-frontend       Up 146 days (healthy)                           ║
-║      codeastral-api           Up 146 days (healthy)                           ║
-║      neural-processor         Up 146 days (healthy)                           ║
-║                                                                                ║
-║  ┌──(root㉿codeastral)-[~/quantum_dev]                                          ║
-║  └─$ echo "Thanks for visiting my digital realm!"                             ║
-║      Thanks for visiting my digital realm!                                     ║
-║                                                                                ║
-║  ┌──(root㉿codeastral)-[~/quantum_dev]                                          ║
-║  └─$ shutdown -h now "Session complete. Neural link terminated."              ║
-║      Broadcasting message: Session complete. Neural link terminated.           ║
-║      System halted.                                                           ║
-║                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### **🌌 IZAXOTIC SPACE SIGNATURE — CRAFTED_BY_PREM_IZAX 🌌**
-```bash
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                           ⭐ SPACE BUILD INFORMATION ⭐                           ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║  � Space Architect: Prem IzaX             🚀 Build: IzaXotic Space v4.2.0      ║
-║  💎 Cosmic Studio: IzaXotic Digital Labs   📅 Date: 2026.04.23                  ║
-║  🔗 Repository: /codeastralizax            🔒 Commit: space_f4a2b8c              ║
-║                                                                                  ║
-║  💬 "Engineering digital universes, one cosmic line of code at a time"          ║
-║  🌟 — Every function crafted with stellar precision and infinite passion        ║
-║                                                                                  ║
-║  🛠️ Built with: � Cosmic Love | ⭐ Space Engineering | 🚀 Digital Innovation   ║
-║  🎯 Powered by: Three.js Magic | IzaXotic Space Aesthetics | Universe Vision    ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<!-- Premium Neural Status Badges -->
-<table width="100%">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🎨%20DESIGNED-BY_PREM_IZAX-00FF41?style=for-the-badge&labelColor=000000&logo=figma"/></td>
-<td align="center"><img src="https://img.shields.io/badge/�%20QUALITY-PREMIUM-00BFFF?style=for-the-badge&labelColor=000000&logo=qualys"/></td>
-<td align="center"><img src="https://img.shields.io/badge/⚡%20NEURAL-POWERED-FF6B35?style=for-the-badge&labelColor=000000&logo=lightning"/></td>
-<td align="center"><img src="https://img.shields.io/badge/🚀%20STATUS-QUANTUM_READY-9333EA?style=for-the-badge&labelColor=000000&logo=rocket"/></td>
-</tr>
-</table>
-
-<!-- Futuristic Terminal Shutdown Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=1200&height=80&lines=prem%40neural-matrix:~%24+echo+%22Thank+you+for+visiting+my+digital+realm!%22;%E2%9E%A4+Neural+connection+established+successfully!+%E2%9C%A8;prem%40neural-matrix:~%24+./shutdown+--graceful+--save-state;%E2%9E%A4+System+halted.+See+you+in+the+quantum+realm!+%F0%9F%9A%80;%E2%9D%AF+Connection+to+codeastral-izax.dev+closed." alt="Neural Shutdown"/>
-
-<!-- Signature Animation with IzaXotic Branding -->
-<div align="center" style="margin: 30px 0;">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=%E2%9A%A1+Built+by+Prem+IzaX+%E2%9A%A1;%F0%9F%92%8E+CodeAstral+Digital+Labs+%F0%9F%92%8E;%F0%9F%8C%9F+IzaXotic+Neural+Matrix+%F0%9F%8C%9F" alt="Prem IzaX Signature"/>
-</div>
-
-</div>
-
-
+<p align="center">
+  <a href="mailto:premizax.07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-premizax.07%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/codeastralizax">
+    <img src="https://img.shields.io/badge/GitHub-codeastralizax-00BFFF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
